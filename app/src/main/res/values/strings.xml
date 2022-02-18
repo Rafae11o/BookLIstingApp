@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BookLIsting</string>
+    <string name="neil_mulholland">Neil Mulholland</string>
+    <string name="the_psychology_of_harry_potter">The Psychology of Harry Potter</string>
+    <string name="en">EN</string>
+    <string name="search_for_book">Search for book</string>
 </resources>
